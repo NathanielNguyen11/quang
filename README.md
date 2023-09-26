@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=NathanielNguyen11)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
  <picture>
