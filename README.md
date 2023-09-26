@@ -1,4 +1,3 @@
-# quang
 
 <!--
 **huangwb8/huangwb8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=huangwb8&theme=algolia&row=2&column=3&no-frame=true" width="36.5%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NathanielNguyen11&theme=algolia&row=2&column=3&no-frame=true" width="36.5%">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-profile-trophy.vercel.app/?username=huangwb8&theme=flat&row=2&column=3&margin-w=1&margin-h=1" width="36.5%">
 </picture>
  
