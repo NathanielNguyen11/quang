@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [Welcome!](https://blognas.hwb0307.com) ✨ <a href="https://blognas.hwb0307.com"><img src="https://komarev.com/ghpvc/?username==NathanielNguyen11&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
-
 *<a href="https://blognas.hwb0307.com">
 
 <p align="center">
